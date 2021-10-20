@@ -1,6 +1,6 @@
 # RabbitMQ Docker
 
-This repository is for RabbitMQ setup with docker compose with MQTT plugin enabled
+This repository is for RabbitMQ setup with docker compose and how to enable MQTT plugin.
 
 ## Run Docker with Default Config
 
