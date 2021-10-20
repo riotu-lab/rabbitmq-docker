@@ -17,7 +17,7 @@ you can open RabbitMQ Management dashboard on [http://localhsot:15672](http://lo
 
 **WARNING: These settings is not secure to be deployed to production, please check this [production deployment checklist](https://www.rabbitmq.com/production-checklist.html) from the the official documentation.**
 
-Below steps is not needed for local machine development with AMQP, if MQTT is needed please check  [RabbitMQ MQTT Plugin](##rabbitmq-mqtt-plugin)
+Below steps is not needed for local machine development with AMQP, if MQTT is needed please check  [RabbitMQ MQTT Plugin](#rabbitmq-mqtt-plugin)
 
 ## Exporting definitions.json (Optional)
 This is an optional step, by default definitions.json is empty.  
